@@ -6,7 +6,6 @@
 - The program reads analog data from potentiometers and sends it via UART communication.
 - The goal is to visualize the data, apply filters, and save it using Python.
 - It provides a user-friendly interface for data visualization, recording, and transformation.
-- The tutorial aims to teach users about Python libraries, object-oriented programming, and microcontroller communication.
 
 ## Code Architecture and Layers
 
