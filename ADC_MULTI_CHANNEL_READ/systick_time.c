@@ -1,4 +1,4 @@
-#include "stm32f10x.h" 
+#include "stm32.h" 
 #include "systick_time.h"
 
 void systick_init(void)

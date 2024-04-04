@@ -7,7 +7,7 @@ https://youtu.be/e0JfbZEditA
 
 
 
-#include "stm32f10x.h"    
+#include "stm32.h"    
 #include "gp_drive.h"
 
 

@@ -1,5 +1,5 @@
 #include "gp_drive.h"
-#include "stm32f10x.h" 
+#include "stm32.h" 
 #include "systick_time.h"
 
 #define adc1          1 
